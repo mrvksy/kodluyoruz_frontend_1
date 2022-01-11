@@ -21,7 +21,7 @@
   * Sevdiğiniz film, dizi ve kitapları bunlar başlıklar olacak şekilde sıralayınız. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
   * Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
   * Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın.
-- - [Tamamlanmış Ödev Linki](https://github.com/mrvksy/kodluyoruz_frontend_1/blob/main/HTML/odev2/index.html)
+- [Tamamlanmış Ödev Linki](https://github.com/mrvksy/kodluyoruz_frontend_1/blob/main/HTML/odev2/index.html)
 
 ---
 
