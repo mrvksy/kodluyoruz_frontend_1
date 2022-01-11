@@ -2,10 +2,15 @@
 
 ## HTML;
 
-#### 1. Ödev 1 Açıklaması :
+#### 1. Ödev 1 :
 
- - Ödev : Ödevde, HTML ile hiyerarşik olacak şekilde paragraf ve başlık etiketlerinin kullanılması, etiketlerimizin bulunduğu noktalara anımsatıcı yorum satırları konulması istenmiştir.
+- Ödev Açıklanması : 
+* Siteyi açtığımızda adınız ve soyadınızı başlık şeklinde göstermeniz gerekiyor.
+* Ad-Soyadın altında alt başlık olarak Hakkımda yazmalıdır.
+* Altına paragraf içerisinde neler yaptığınızı ve nelerden hoşlandığınızı yazabilirsiniz.
+* Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
+* Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
 ---
 
-#### 2. Ödev 2 Açıklaması :
+#### 2. Ödev 2 :
 
