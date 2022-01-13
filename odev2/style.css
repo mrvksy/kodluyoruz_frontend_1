@@ -1,0 +1,90 @@
+.logo {
+    text-align: center;
+  }
+
+  label {
+    display: block;
+    text-align: center;
+    width: 320px;
+    margin: 0;
+  }
+  
+  .cards {
+    justify-content: center; /*Flex özelliğine sahip olan bir kapsayıcının yatay eksende nasıl hizalanacağını ayarlar.*/
+  }
+
+  #copy{
+    display: block;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .card-first {
+    display: flex;
+    float: left;
+    margin-left: 70px;
+    margin-top: 1px;
+    border-right: 2px solid white;
+    padding-right: 350px;
+    text-align: center; /*Yatay hizamalama için*/
+    align-items: center; /*Flex özelliğine sahip kapsayıcının dikey eksende hizalanmas için*/
+    justify-content: flex-end;
+    background-color: #7EE5DA;
+  }
+  
+  .card-second {
+    display: flex;
+    float: left;
+    background-color: #70CCC2;
+    margin-top: 1px;
+    padding-top: 1px;
+    font-size: 13px;
+    padding-right: 150px;
+    text-align: center;
+    align-items: center;
+    border-right: 1px solid white;
+    justify-content: flex-end;
+  }
+  
+  .card-third {
+    float: left;
+    background-color: #62B3AA;
+    margin-top: 1px;
+    padding-bottom: 5px;
+    font-size: 13px;
+    text-align: center;
+    align-items: center;
+    justify-content: flex-end;
+    width: 443px;
+    padding-bottom: 13px;
+  }
+  
+  #search-bar {
+    display: inline-block;
+    width: 305px;
+  }
+  
+  .search-section {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: #EEEEEE;
+  }
+
+  ul {
+    text-align: center;
+    list-style-type: none;
+  }
+  
+  li {
+   
+    text-align: center;
+  
+  }
+
+  p {
+    display: inline;
+  }
+  
