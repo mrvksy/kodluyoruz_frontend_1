@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#FFEEAD;
+}
+
+/* PAGE - ANASAYFA & ÜRÜNLERİMİZ*/
+
+.header {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    color: #35858B;
+    margin: top 0;
+    padding: 20px;
+}
+.nav {
+    text-align: center;
+    font-size: 20px;
+
+}
+.navbar {
+    display:block;
+    list-style-type: none;
+    margin: 20px;
+    color: #4FBDBA;
+}
+a:link {
+    color: #4FBDBA;
+    text-decoration: none;
+    }
+a:visited {
+    text-decoration: none;
+    color: #4FBDBA;
+    }
+a:hover {
+    text-decoration: none;
+    color: #072227;
+    }
+.nav li {
+    display: inline;
+    list-style-type: none;
+    margin: 20px;
+}
+
+.text {
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    font-size: 16px;
+}
+.text h1, h2 {
+    color: #F47340;
+}
+.list {
+    list-style-position: inside;
+    font-size: 18px;
+}
